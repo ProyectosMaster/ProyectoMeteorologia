@@ -1,0 +1,1 @@
+- Ficheros utlizados para las predicciones de las variables meteorológicas.

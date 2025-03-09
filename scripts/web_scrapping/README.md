@@ -1,0 +1,1 @@
+- Ficheros de web scrapping para la obtención de los datos tanto diarios como horarios.

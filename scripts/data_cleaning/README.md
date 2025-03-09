@@ -1,0 +1,1 @@
+- Ficheros correspondientes a la limpieza de datos despúes de su obtención mediante web scrapping.

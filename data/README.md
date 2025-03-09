@@ -1,0 +1,1 @@
+- Carpetas de los distintos datos utilizados a lo largo del proyecto.

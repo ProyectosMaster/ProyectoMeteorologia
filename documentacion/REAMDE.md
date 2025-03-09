@@ -1,0 +1,1 @@
+- Documentación de todo el proyecto junto con el manual de usuario de la visualización.

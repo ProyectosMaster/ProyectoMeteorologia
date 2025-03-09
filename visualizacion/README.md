@@ -1,0 +1,1 @@
+- Visualización de los datos realizada en PowerBI.
